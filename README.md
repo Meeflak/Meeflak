@@ -2,6 +2,8 @@
 - I cannt wait to see where this adventure takes me. 
 - Now that I am extremely close to graduation, I will be diving into some personal learning objectives such as combat system implementation and best practices.
   I have lots to learn! But I look forward to every minute of it. 
+  
+  I will continue to push to this page weekly to grow my library of demonstrated works.
 
 
 <!---
