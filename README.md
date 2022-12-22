@@ -1,6 +1,6 @@
 - Hello! My name is Micheal Eichenlaub, an aspiring game designer excited about all the possibilities. 
 - I cannt wait to see where this adventure takes me. 
-- Now that I am extremely close to graduation, I will be diving into some personal learning objectives such combat system implementation and best practices.
+- Now that I am extremely close to graduation, I will be diving into some personal learning objectives such as combat system implementation and best practices.
   I have lots to learn! But I look forward to every minute of it. 
 
 
